@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.co-win-Dashboard-container {
+  background-color: #161625;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  background-size: cover;
+}
+.co-win-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.co-win-image {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  color: #2cc6c6;
+}
+.co-win-description {
+  color: #2cc6c6;
+  font-size: 22px;
+  font-weight: 100px;
+  font-family: Roboto;
+}
+.co-win-heading {
+  color: #cbd5e1;
+  font-size: 30px;
+  font-weight: 100px;
+  font-family: Roboto;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-image {
+  width: 250px;
+  height: 200px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
